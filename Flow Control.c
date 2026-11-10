@@ -1,3 +1,5 @@
+/*this code is an interactive code, that serves as a bank account system that requests for
+the user's bank account and conducts various operations based on the number they choose*/ 
 #include <stdio.h>
 #include <stdlib.h>
 
